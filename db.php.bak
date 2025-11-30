@@ -1,7 +1,7 @@
 <?php
  
- // phpmyadmin is running at port 8002
- // http://localhost:8002
+ // phpmyadmin is running at port 8001
+ // http://localhost:8001
   $host = 'db';  
   $data = 'git_security';  
   $user = 'git';   
